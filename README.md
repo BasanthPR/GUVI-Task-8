@@ -5,3 +5,4 @@ Task-1
 
 Task-2
 	I've come up with a program that automatically corrects the spelling from the word or a given sentence. (Language : English) 
+
